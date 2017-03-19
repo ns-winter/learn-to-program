@@ -1,3 +1,4 @@
+#renamed chap2_notes.rb instead of calc.rb
 puts 1+2
 puts 1.0 + 2.0
 puts 2.0 * 3.0
